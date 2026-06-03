@@ -2,9 +2,20 @@
 ![Power Query](https://img.shields.io/badge/Power_Query-Used-blue)
 ![Business Intelligence](https://img.shields.io/badge/BI-Analysis-orange)
 
-# Coffee Shop Sales Analysis | Excel, Power Query & Business Intelligence
+# Project 01 - Coffee Shop Sales Analysis
 
-## Project Highlights
+## Project Files
+
+📊 Dashboard Workbook:
+[Download Dashboard](dashboard/Coffee%20Shop%20Dashboard.xlsx)
+
+📄 Dataset:
+[Download Dataset](data/Coffee%20Shop%20Sales.xlsx)
+
+📝 Documentation:
+This README contains the complete project methodology, analysis, findings, and recommendations.
+
+## Key Highlights
 
 - 149,116 transaction records analyzed
 - 3 NYC store locations compared
