@@ -7,10 +7,10 @@
 ## Project Files
 
 📊 Dashboard Workbook:
-[Download Dashboard](dashboard/Coffee%20Shop%20Dashboard.xlsx)
+[Download Dashboard](Coffee%20Shop%20Dashboard.xlsx)
 
 📄 Dataset:
-[Download Dataset](data/Coffee%20Shop%20Sales.xlsx)
+[Download Dataset](Coffee%20Shop%20Sales.xlsx)
 
 📝 Documentation:
 This README contains the complete project methodology, analysis, findings, and recommendations.
